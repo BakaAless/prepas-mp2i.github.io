@@ -34,23 +34,25 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 | Mathématiques B           | [![X_MATHS_B.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-SUJET-MATHS-B-(X).pdf)             | [![2024_MPI_RAPPORT_ECRIT_DE_MATHS_B_(X).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_DE_MATHS_B_(X).pdf) |
 | Mathématiques C           | [![ULSR_MATHS_C.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-MATHS-C-(ULSR).pdf)       | À venir |
 | Informatique A            | [![XULSR_INFO_A.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-INFORMATIQUE-A-(XULSR).pdf)       | À venir |
-| Informatique C            | [![XULSR_INFO_C.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-INFORMATIQUE-C-(XULSR).pdf)       | À venir |
-| Informatique fondamentale | [![ULSR_InfoFonda.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-INFO-FONDAMENTALE-(ULSR).pdf)   | À venir |
+| Informatique C            | [![XULSR_INFO_C.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-INFORMATIQUE-C-(XULSR).pdf)       | [![2024_MPI_RAPPORT_ECRIT_INFORMATIQUE_C_(XULSR).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_INFORMATIQUE_C_(XULSR).pdf) |
+| Informatique fondamentale | [![ULSR_InfoFonda.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-INFO-FONDAMENTALE-(ULSR).pdf)   | [![2024_MPI_RAPPORT_ECRIT_INFO_FONDAMENTAL_(ULSR).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_INFO_FONDAMENTAL_(ULSR).pdf) |
 | Physique                  | [![X_PHYSIQUE.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MPI-SUJET-PHYSIQUE-MPI-(X).pdf)           | [![2024_MPI_RAPPORT_ECRIT_PHYSIQUE_(X).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_PHYSIQUE_(X).pdf) |
-| Français                  | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-PC-SUJET-FRANCAIS-(XEULSR).pdf) | À venir |
+| Français                  | [![XEULSR_FRANCAIS.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-PC-SUJET-FRANCAIS-(XEULSR).pdf) | [![2024_MPI_RAPPORT_ECRIT_FRANCAIS_(XEULSR).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_FRANCAIS_(XEULSR).pdf) |
 | Anglais                   | [![XEULSR_ANGLAIS_Non_Officiel.pdf](/icons/download.ico)](/documents/sujets/2024/2024-MP-MPI-PC-PSI-SUJET-ANGLAIS-(XEULSR).pdf)      | [![2024_MPI_RAPPORT_ECRIT_ANGLAIS_(XEULSR).pdf](/icons/download.ico)](/documents/rapports/2024/2024_MPI_RAPPORT_ECRIT_ANGLAIS_(XEULSR).pdf) |
 
 ### Centrale-Supélec
 
-| Épreuve | Sujet | Rapport |
-|:-------:|:-----:|:-------:|
-| Mathématiques 1      | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-MATHS-1.pdf)     | À venir |
-| Mathématiques 2      | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-MATHS-2.pdf)  | À venir |
-| Informatique         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2024/Centrale_Info.pdf)         | À venir |
-| Physique 1           | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-PHYS-1.pdf)       | À venir |
-| Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-PHYS-2.pdf)      | À venir |
-| Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-FRANCAIS.pdf) | À venir |
-| Anglais              | [![Centrale_Anglais.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-ANGLAIS.pdf)  | À venir |
+| Épreuve | Sujet |
+|:-------:|:-----:|
+| Mathématiques 1      | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-MATHS-1.pdf)     |
+| Mathématiques 2      | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-MATHS-2.pdf)  |
+| Informatique         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2024/Centrale_Info.pdf)         |
+| Physique 1           | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-PHYS-1.pdf)       |
+| Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-PHYS-2.pdf)      |
+| Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-FRANCAIS.pdf) |
+| Anglais              | [![Centrale_Anglais.pdf](/icons/download.ico)](/documents/sujets/2024/CENTRALE-ANGLAIS.pdf)  |
+
+> Le rapport du jury sur tous les sujets est ici : [![Centrale_Rapport2024.pdf](/icons/download.ico)](/documents/rapports/2024/Centrale_Rapport2024.pdf)
 
 ### Concours Commun Mines-Ponts
 
@@ -99,7 +101,7 @@ Explorer les [sujets par filière](https://gargantua.polytechnique.fr/siatel-web
 |:-------:|:-----:|:-------:|
 | Mathématiques A           | [![XLSR_MATHS_A.pdf](/icons/download.ico)](/documents/sujets/2023/XLSR_MATHS_A.pdf)       | [![2023-MP-MPI-RAPPORT-ECRIT-MATHEMATIQUES-A-(XLSR).pdf](/icons/download.ico)](/documents/rapports/2023/2023-MP-MPI-RAPPORT-ECRIT-MATHEMATIQUES-A-(XLSR).pdf) |
 | Mathématiques B           | [![X_MATHS_B.pdf](/icons/download.ico)](/documents/sujets/2023/X_MATHS_B.pdf)             | [![MPI_RAPPORT_ECRIT_MATHEMATIQUES_B_(X).pdf](/icons/download.ico)](/documents/rapports/2023/MPI_RAPPORT_ECRIT_MATHEMATIQUES_B_(X).pdf) |
-| Mathématiques C           | [![ULSR_MATHS_C.pdf](/icons/download.ico)](/documents/sujets/2023/ULSR_MATHS_C.pdf)       | |
+| Mathématiques C           | [![ULSR_MATHS_C.pdf](/icons/download.ico)](/documents/sujets/2023/ULSR_MATHS_C.pdf)       | [![MPI_RAPPORT_ECRIT_MATHEMATIQUES_C_(ULSR).pdf](/icons/download.ico)](/documents/rapports/2023/MPI_RAPPORT_ECRIT_MATHEMATIQUES_C_(ULSR).pdf) |
 | Informatique A            | [![XULSR_INFO_A.pdf](/icons/download.ico)](/documents/sujets/2023/XULSR_INFO_A.pdf)       | [![MPI_RAPPORT_ECRIT_INFORMATIQUE_A_(XULSR).pdf](/icons/download.ico)](/documents/rapports/2023/MPI_RAPPORT_ECRIT_INFORMATIQUE_A_(XULSR).pdf) |
 | Informatique C            | [![XULSR_INFO_C.pdf](/icons/download.ico)](/documents/sujets/2023/XULSR_INFO_C.pdf)       | [![MPI_RAPPORT_ECRIT_INFORMATIQUE_C_(XULSR).pdf](/icons/download.ico)](/documents/rapports/2023/MPI_RAPPORT_ECRIT_INFORMATIQUE_C_(XULSR).pdf) |
 | Informatique fondamentale | [![ULSR_InfoFonda.pdf](/icons/download.ico)](/documents/sujets/2023/ULSR_InfoFonda.pdf)   | [![ULSR_InfoFonda.pdf](/icons/download.ico)](/documents/rapports/2023/ULSR_InfoFonda.pdf) |
@@ -124,7 +126,7 @@ Découvrir les sujets, rapports et barres d'admissibilité [ici](https://www.con
 | Mathématiques 1      | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Maths1.pdf)     | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Maths1.pdf) |
 | Mathématiques 2      | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Maths2.pdf)     | [![Centrale_Maths2.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Maths2.pdf) |
 | Informatique         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Info.pdf)         | [![Centrale_Info.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Info.pdf) |
-| Physique 1           | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys1.pdf)       | |
+| Physique 1           | [![Centrale_Phys1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys1.pdf)       | À venir |
 | Physique 2           | [![Centrale_Phys2.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Phys2.pdf)       | [![Centrale_PC2.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_PC2.pdf) |
 | Français-Philosophie | [![Centrale_FraPhilo.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_FraPhilo.pdf) | [![Centrale_Redaction.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Redaction.pdf) |
 | Anglais              | [![Centrale_Maths1.pdf](/icons/download.ico)](/documents/sujets/2023/Centrale_Anglais.pdf)    | [![Centrale_Anglais.pdf](/icons/download.ico)](/documents/rapports/2023/Centrale_Anglais.pdf) |
@@ -147,6 +149,7 @@ Voir la page [annales](https://www.concoursminesponts.fr/page-6/) du site du con
 | Langue vivante A     | [![CCMP_Langues.pdf](/icons/download.ico)](/documents/sujets/2023/CCMP_Langues.pdf)                       |
 
 > Le rapport du jury sur tous les sujets est ici : [![Rapport-Final-Ecrit-2023_CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Ecrit-2023_CCMP.pdf)
+
 > Le rapport du jury sur tous les oraux est ici : [![Rapport-Final-Oral-2023-CCMP.pdf](/icons/download.ico)](/documents/rapports/2023/Rapport-Final-Oral-2023-CCMP.pdf)
 
 ### CCINP

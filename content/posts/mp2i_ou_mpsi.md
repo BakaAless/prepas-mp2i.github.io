@@ -28,7 +28,7 @@ Bien sûr j'ai reçu des propositions d'admissions, mais entre MP2I et MPSI pour
 :(fas fa-lightbulb): *Il avait les spécialités Mathématiques et NSI en Terminale.*
 {{< /admonition >}}
 
-Pour entrer en **MP2I**, nous vous renvoyons à [cette page](https://prepas-mp2i.fr/admission/#les-sp%C3%A9cialit%C3%A9s-%C3%A0-privil%C3%A9gier).
+Pour entrer en **MP2I**, nous vous renvoyons à [cette page](https://prepas-mp2i.fr/inscription/#les-sp%C3%A9cialit%C3%A9s-%C3%A0-privil%C3%A9gier).
 
 Pour entrer en **MPSI**, le parcours le plus logique (même si, encore une fois, ce n'est pas le seul possible) est de prendre en Première les spécialités Mathématiques, Physique-Chimie et SI (ou NSI si vous visez déjà l'option informatique), puis de conserver Mathématiques et Physique-Chimie en Terminale, sans oublier l'option Mathématiques expertes.
 
@@ -40,7 +40,11 @@ En **MP2I**, l'informatique est uniquement traitée dans son aspect spécialité
 
 En **MPSI**, l'informatique étudiée est celle  du tronc commun (MPSI, PCSI & PTSI) : elle traite une petite partie du programme théorique de l'informatique spécialité et ne concerne que les langages Python et SQL (retrouvez le programme [ici](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/27/2/spe774_annexe_1373272.pdf)). D'autre part, la chimie a une place importante dans le programme et s'accompagnera de travaux pratiques ; la SI quant à elle sera étudiée toute l'année, sauf pour les élèves choisissant l'option informatique au second semestre.
 
-Concernant les Mathématiques, le programme est strictement identique ; celui de Physique est similaire, mais en MP2I il part du principe que certains élèves n'ont pas suivi cette spécialité en Terminale (voire dans certains cas en Première) et donc reste plus allégé. Vous pouvez consulter [ce document](/documents/Programme_Physique.pdf) pour plus de détails.
+Concernant les Mathématiques, le programme est strictement identique ; celui de Physique est similaire, mais en MP2I il part du principe que certains élèves n'ont pas suivi cette spécialité en Terminale (voire dans certains cas en Première) et donc reste plus allégé.
+
+{{< admonition info "Différences dans le programme de Physique-Chimie" true >}}
+Un professeur de Physique en CPGE vous met à disposition un récapitulatif des [différences dans le programme de physique entre MP2I et MPSI/PSCI/PTSI](/documents/Programme_Physique_1.pdf) et des [différences dans le programme de physique-chimie entre MPI et MP](/documents/Programme_Physique_2.pdf).
+{{< /admonition >}}
 
 ### Volumes horaires
 
